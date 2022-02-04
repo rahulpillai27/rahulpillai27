@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulpillai27
 - 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence., Quantum Computing
-- 🌱 I’m currently studying Btech:CSE(3rd Year)
+- 🌱 I’m currently studying Btech:CSE(4th Year)
 - 💞️ I’m looking to collaborate on projects related to Quantum Computing
 - 📫 How to reach me: Email: pillairahul.r@gmail.com
 
